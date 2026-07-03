@@ -17,7 +17,7 @@
 
 ### Sobre
 
-Atuo como técnica de enfermagem em UTI Neonatal e curso Sistemas de Informação (UNIP), em transição de carreira para tecnologia, com foco em desenvolvimento, dados e Inteligência Artificial.
+Atuo como técnica de enfermagem em UTI Neonatal, onde as decisões são rápidas e exigem precisão. Curso Sistemas de Informação (UNIP) e estou em transição de carreira para tecnologia, com foco em desenvolvimento, dados e Inteligência Artificial.
 
 Também tenho experiência com **prevenção à fraude**, **análise documental** e **operações de marketplace** — funções que exigiam ler dados com atenção, identificar padrões e sustentar decisões com evidência. É essa base analítica que aplico hoje ao aprender a programar e a trabalhar com dados.
 
