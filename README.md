@@ -37,7 +37,6 @@ Antes disso, trabalhei com **prevenção à fraude**, **análise documental** e 
 **Uso:**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -49,6 +48,7 @@ Antes disso, trabalhei com **prevenção à fraude**, **análise documental** e 
 **Em estudo:**
 
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/IA%20%2F%20Machine%20Learning-6E4AFF?style=for-the-badge&logo=openai&logoColor=white" alt="IA / ML"/>
   <img src="https://img.shields.io/badge/Cloud-0F6E56?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud"/>
